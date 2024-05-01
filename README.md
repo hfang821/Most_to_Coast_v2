@@ -1,7 +1,6 @@
 # Most_to_Coast
 
-## Heroku Deployment: 
-https://most-to-coast.herokuapp.com/
+## Heroku Deployment: Currently under construction, thank you for your patience.
 
 ## Guest Login Information:
 Guest Login Email: guest@guest.com <br>
